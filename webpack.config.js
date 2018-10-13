@@ -12,6 +12,7 @@ module.exports = {
 		contentBase: './dist',
 		hot: true,
 	},
+	mode: 'production',
 	module: {
 		rules: [
 			{
